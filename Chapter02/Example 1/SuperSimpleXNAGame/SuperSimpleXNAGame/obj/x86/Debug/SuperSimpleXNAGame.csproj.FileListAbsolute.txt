@@ -1,0 +1,9 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SuperSimpleXNAGame\SuperSimpleXNAGame\bin\x86\Debug\Content\Textures\block.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SuperSimpleXNAGame\SuperSimpleXNAGame\bin\x86\Debug\SuperSimpleXNAGame.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SuperSimpleXNAGame\SuperSimpleXNAGame\bin\x86\Debug\SuperSimpleXNAGame.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SuperSimpleXNAGame\SuperSimpleXNAGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SuperSimpleXNAGame\SuperSimpleXNAGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SuperSimpleXNAGame\SuperSimpleXNAGame\obj\x86\Debug\SuperSimpleXNAGame.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SuperSimpleXNAGame\SuperSimpleXNAGame\obj\x86\Debug\SuperSimpleXNAGame.pdb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 2\Example 1\SuperSimpleXNAGame\SuperSimpleXNAGame\obj\x86\Debug\SuperSimpleXNAGame.exe
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 2\Example 1\SuperSimpleXNAGame\SuperSimpleXNAGame\obj\x86\Debug\SuperSimpleXNAGame.pdb

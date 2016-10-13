@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\KootenayLarge.spritefont</Source>
+      <Name>Fonts\KootenayLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\Content\Fonts\KootenayLarge.xnb</Output>
+      <Time>2008-12-22T04:08:53.975-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\KootenaySmall.spritefont</Source>
+      <Name>Fonts\KootenaySmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\Content\Fonts\KootenaySmall.xnb</Output>
+      <Time>2008-12-22T04:08:47.177-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuSounds\SelectChanged.wav</Source>
+      <Name>MenuSounds\SelectChanged</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\Content\MenuSounds\SelectChanged.xnb</Output>
+      <Time>2008-12-22T16:54:02.052-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuSounds\Selected.wav</Source>
+      <Name>MenuSounds\Selected</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\Content\MenuSounds\Selected.xnb</Output>
+      <Time>2008-12-22T16:54:02.054-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Zune</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\Content\obj\Zune\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-12-30T02:25:48.7331745-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

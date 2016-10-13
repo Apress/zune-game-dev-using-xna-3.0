@@ -1,0 +1,29 @@
+5052c788dae64e1fa3965111fd6530fb
+0
+Jasmine's Zune
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\bin\Zune\Debug\
+128710576020000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\GameThumbnail.png
+2008-11-13T12:37:10.8320320Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\bin\Zune\Debug\InputState.dll
+2008-11-13T12:10:28.7729818Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\bin\Zune\Debug\MonkeyFeeder.exe
+2008-11-13T14:02:46.8819818Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\bin\Zune\Debug\Content\Textures\arrow.xnb
+2008-11-13T12:51:19.6599818Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\bin\Zune\Debug\Content\Textures\banana.xnb
+2008-11-13T12:51:20.5619818Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\bin\Zune\Debug\Content\Textures\beachbg.xnb
+2008-11-13T13:03:17.3799818Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\bin\Zune\Debug\Content\Textures\gameover.xnb
+2008-11-13T13:40:37.6259818Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\bin\Zune\Debug\Content\Textures\monkeysheet.xnb
+2008-11-13T12:52:01.6849818Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\bin\Zune\Debug\Content\Textures\smallmonkey.xnb
+2008-11-13T12:51:19.9579818Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\bin\Zune\Debug\Content\Textures\startscreen.xnb
+2008-11-13T13:21:41.2919818Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\bin\Zune\Debug\Content\Textures\water.xnb
+2008-11-13T13:03:17.6799818Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\bin\Zune\Debug\Content\Fonts\Small.xnb
+2008-11-13T12:52:01.7169818Z

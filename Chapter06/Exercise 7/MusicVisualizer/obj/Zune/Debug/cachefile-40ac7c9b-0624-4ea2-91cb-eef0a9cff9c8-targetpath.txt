@@ -1,0 +1,3 @@
+Content\notrackbg.xnb
+Content\pixel.xnb
+Content\waveformbox.xnb

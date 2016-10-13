@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\robot.png</Source>
+      <Name>Textures\robot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Content\Textures\robot.xnb</Output>
+      <Time>2008-06-11T00:15:27.7-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\blank.png</Source>
+      <Name>Textures\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Content\Textures\blank.xnb</Output>
+      <Time>2008-06-11T01:23:40.424-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tahoma.spritefont</Source>
+      <Name>Tahoma</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Content\Tahoma.xnb</Output>
+      <Time>2008-06-11T01:04:04.139-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Zune</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\Content\obj\Zune\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-01T01:51:01.2135182-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

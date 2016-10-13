@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyEights", "CrazyEights.csproj", "{62C9974D-F7A1-41B1-90F5-42A3C553EB54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardLib", "..\CardLib\CardLib.csproj", "{B210D341-3174-4150-9A76-5DE9F1C78115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStateManager", "..\ScreenManager\GameStateManager.csproj", "{2125CC40-7234-4202-94C4-EB5B8D8E3478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C9974D-F7A1-41B1-90F5-42A3C553EB54}.Debug|Zune.ActiveCfg = Debug|Zune
+		{62C9974D-F7A1-41B1-90F5-42A3C553EB54}.Debug|Zune.Build.0 = Debug|Zune
+		{62C9974D-F7A1-41B1-90F5-42A3C553EB54}.Debug|Zune.Deploy.0 = Debug|Zune
+		{62C9974D-F7A1-41B1-90F5-42A3C553EB54}.Release|Zune.ActiveCfg = Release|Zune
+		{62C9974D-F7A1-41B1-90F5-42A3C553EB54}.Release|Zune.Build.0 = Release|Zune
+		{62C9974D-F7A1-41B1-90F5-42A3C553EB54}.Release|Zune.Deploy.0 = Release|Zune
+		{B210D341-3174-4150-9A76-5DE9F1C78115}.Debug|Zune.ActiveCfg = Debug|Zune
+		{B210D341-3174-4150-9A76-5DE9F1C78115}.Debug|Zune.Build.0 = Debug|Zune
+		{B210D341-3174-4150-9A76-5DE9F1C78115}.Release|Zune.ActiveCfg = Release|Zune
+		{B210D341-3174-4150-9A76-5DE9F1C78115}.Release|Zune.Build.0 = Release|Zune
+		{2125CC40-7234-4202-94C4-EB5B8D8E3478}.Debug|Zune.ActiveCfg = Debug|Zune
+		{2125CC40-7234-4202-94C4-EB5B8D8E3478}.Debug|Zune.Build.0 = Debug|Zune
+		{2125CC40-7234-4202-94C4-EB5B8D8E3478}.Release|Zune.ActiveCfg = Release|Zune
+		{2125CC40-7234-4202-94C4-EB5B8D8E3478}.Release|Zune.Build.0 = Release|Zune
+		{36EA5207-B546-48DF-A21F-F4D62A6E1359}.Debug|Zune.ActiveCfg = Debug|Zune
+		{36EA5207-B546-48DF-A21F-F4D62A6E1359}.Release|Zune.ActiveCfg = Release|Zune
+		{5FBD77F0-3B2C-4D5B-B2AC-C32FD326C38A}.Debug|Zune.ActiveCfg = Debug|Zune
+		{5FBD77F0-3B2C-4D5B-B2AC-C32FD326C38A}.Release|Zune.ActiveCfg = Release|Zune
+		{47B424C3-ED9A-4903-9BE4-552605D5B2CB}.Debug|Zune.ActiveCfg = Debug|Zune
+		{47B424C3-ED9A-4903-9BE4-552605D5B2CB}.Release|Zune.ActiveCfg = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

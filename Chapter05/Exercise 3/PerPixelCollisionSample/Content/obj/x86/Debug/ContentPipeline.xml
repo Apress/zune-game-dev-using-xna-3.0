@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>greenball.png</Source>
+      <Name>greenball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\bin\x86\Debug\Content\greenball.xnb</Output>
+      <Time>2008-11-11T01:44:45.258-05:00</Time>
+    </Item>
+    <Item>
+      <Source>otherball.png</Source>
+      <Name>otherball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\bin\x86\Debug\Content\otherball.xnb</Output>
+      <Time>2008-11-11T01:44:45.259-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Normal.spritefont</Source>
+      <Name>Normal</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\bin\x86\Debug\Content\Normal.xnb</Output>
+      <Time>2008-11-11T02:08:23.292-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-01T01:51:01.2135182-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

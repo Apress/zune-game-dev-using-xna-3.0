@@ -1,0 +1,23 @@
+99e3000b84ed493f8b90eb2bc736da35
+0
+Dawate
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 6\OutBreak\bin\Zune\Debug\
+128700823420000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 6\OutBreak\GameThumbnail.png
+2008-10-25T08:07:19.8490000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 6\OutBreak\bin\Zune\Debug\OutBreak.exe
+2008-11-02T08:13:22.2573086Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 6\OutBreak\bin\Zune\Debug\Content\ball.xnb
+2008-11-02T06:20:09.4433086Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 6\OutBreak\bin\Zune\Debug\Content\block.xnb
+2008-11-02T06:20:08.8573086Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 6\OutBreak\bin\Zune\Debug\Content\gameover.xnb
+2008-11-02T06:20:10.3713086Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 6\OutBreak\bin\Zune\Debug\Content\Normal.xnb
+2008-11-02T06:20:10.4533086Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 6\OutBreak\bin\Zune\Debug\Content\outbreak_background.xnb
+2008-11-02T06:20:09.7623086Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 6\OutBreak\bin\Zune\Debug\Content\outbreak_bg_dark.xnb
+2008-11-02T06:20:10.0673086Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 6\OutBreak\bin\Zune\Debug\Content\paddle.xnb
+2008-11-02T06:20:09.1513086Z

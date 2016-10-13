@@ -1,0 +1,13 @@
+1f05ba08139c4a89b7460b54b4d387a8
+0
+Bob Dole
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 4\LandscapeGame\bin\Zune\Debug\
+128724191100000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 4\LandscapeGame\GameThumbnail.png
+2008-11-28T09:41:26.4237773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 4\LandscapeGame\bin\Zune\Debug\LandscapeGame.exe
+2008-11-29T07:53:31.2437773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 4\LandscapeGame\bin\Zune\Debug\Content\ball.xnb
+2008-11-29T05:58:25.3817773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 4\LandscapeGame\bin\Zune\Debug\Content\Normal.xnb
+2008-11-29T07:53:31.1497773Z

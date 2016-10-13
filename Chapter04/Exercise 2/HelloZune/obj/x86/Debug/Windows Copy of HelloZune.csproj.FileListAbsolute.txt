@@ -1,0 +1,7 @@
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\HelloZune\bin\x86\Debug\Content\Tahoma.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\HelloZune\bin\x86\Debug\HelloZune.exe
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\HelloZune\bin\x86\Debug\HelloZune.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\HelloZune\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\HelloZune\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\HelloZune\obj\x86\Debug\HelloZune.exe
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\HelloZune\obj\x86\Debug\HelloZune.pdb

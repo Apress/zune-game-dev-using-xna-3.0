@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchThrower", "TouchThrower.csproj", "{1FD0A3D2-9651-4D28-8FD7-79600F109DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD0A3D2-9651-4D28-8FD7-79600F109DA6}.Debug|Zune.ActiveCfg = Debug|Zune
+		{1FD0A3D2-9651-4D28-8FD7-79600F109DA6}.Debug|Zune.Build.0 = Debug|Zune
+		{1FD0A3D2-9651-4D28-8FD7-79600F109DA6}.Debug|Zune.Deploy.0 = Debug|Zune
+		{1FD0A3D2-9651-4D28-8FD7-79600F109DA6}.Release|Zune.ActiveCfg = Release|Zune
+		{1FD0A3D2-9651-4D28-8FD7-79600F109DA6}.Release|Zune.Build.0 = Release|Zune
+		{1FD0A3D2-9651-4D28-8FD7-79600F109DA6}.Release|Zune.Deploy.0 = Release|Zune
+		{020EBD7C-8D02-49B6-BE04-A465A32925EE}.Debug|Zune.ActiveCfg = Debug|Zune
+		{020EBD7C-8D02-49B6-BE04-A465A32925EE}.Release|Zune.ActiveCfg = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

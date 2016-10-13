@@ -1,0 +1,6 @@
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 3\Example 1\SimpleAnimationExtension\SimpleAnimationExtension\bin\Zune\Debug\SimpleAnimationExtension.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 3\Example 1\SimpleAnimationExtension\SimpleAnimationExtension\bin\Zune\Debug\SimpleAnimationExtension.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 3\Example 1\SimpleAnimationExtension\SimpleAnimationExtension\bin\Zune\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 3\Example 1\SimpleAnimationExtension\SimpleAnimationExtension\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 3\Example 1\SimpleAnimationExtension\SimpleAnimationExtension\obj\Zune\Debug\SimpleAnimationExtension.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 3\Example 1\SimpleAnimationExtension\SimpleAnimationExtension\obj\Zune\Debug\SimpleAnimationExtension.pdb

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedSpriteBatch", "SharedSpriteBatch.csproj", "{42DB91F9-6D28-41B2-B926-0ABC78EBF834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42DB91F9-6D28-41B2-B926-0ABC78EBF834}.Debug|Zune.ActiveCfg = Debug|Zune
+		{42DB91F9-6D28-41B2-B926-0ABC78EBF834}.Debug|Zune.Build.0 = Debug|Zune
+		{42DB91F9-6D28-41B2-B926-0ABC78EBF834}.Debug|Zune.Deploy.0 = Debug|Zune
+		{42DB91F9-6D28-41B2-B926-0ABC78EBF834}.Release|Zune.ActiveCfg = Release|Zune
+		{42DB91F9-6D28-41B2-B926-0ABC78EBF834}.Release|Zune.Build.0 = Release|Zune
+		{42DB91F9-6D28-41B2-B926-0ABC78EBF834}.Release|Zune.Deploy.0 = Release|Zune
+		{95FCB72D-49B6-4293-A0D1-71BE44F4FA91}.Debug|Zune.ActiveCfg = Debug|Zune
+		{95FCB72D-49B6-4293-A0D1-71BE44F4FA91}.Release|Zune.ActiveCfg = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

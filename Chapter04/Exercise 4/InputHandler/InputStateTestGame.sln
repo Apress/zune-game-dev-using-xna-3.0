@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputStateTestGame", "InputStateTestGame\InputStateTestGame.csproj", "{72FD40FA-2FF8-4F18-8199-61938B5C0BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72FD40FA-2FF8-4F18-8199-61938B5C0BFB}.Debug|Zune.ActiveCfg = Debug|Zune
+		{72FD40FA-2FF8-4F18-8199-61938B5C0BFB}.Debug|Zune.Build.0 = Debug|Zune
+		{72FD40FA-2FF8-4F18-8199-61938B5C0BFB}.Debug|Zune.Deploy.0 = Debug|Zune
+		{72FD40FA-2FF8-4F18-8199-61938B5C0BFB}.Release|Zune.ActiveCfg = Release|Zune
+		{72FD40FA-2FF8-4F18-8199-61938B5C0BFB}.Release|Zune.Build.0 = Release|Zune
+		{72FD40FA-2FF8-4F18-8199-61938B5C0BFB}.Release|Zune.Deploy.0 = Release|Zune
+		{350EC107-F502-4549-BE95-B2CB156D4826}.Debug|Zune.ActiveCfg = Debug|Zune
+		{350EC107-F502-4549-BE95-B2CB156D4826}.Release|Zune.ActiveCfg = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

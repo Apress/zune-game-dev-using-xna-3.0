@@ -1,0 +1,7 @@
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\PulsatingSample\bin\x86\Debug\Content\greenball.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\PulsatingSample\bin\x86\Debug\PulsatingSample.exe
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\PulsatingSample\bin\x86\Debug\PulsatingSample.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\PulsatingSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\PulsatingSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\PulsatingSample\obj\x86\Debug\PulsatingSample.exe
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 2\PulsatingSample\obj\x86\Debug\PulsatingSample.pdb

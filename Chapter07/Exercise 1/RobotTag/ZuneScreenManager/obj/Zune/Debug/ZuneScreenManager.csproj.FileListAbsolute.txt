@@ -1,0 +1,18 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\ZuneScreenManager\ZuneScreenManager\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\ZuneScreenManager\ZuneScreenManager\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\ZuneScreenManager\ZuneScreenManager\bin\Zune\Debug\ZuneScreenManager.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\ZuneScreenManager\ZuneScreenManager\bin\Zune\Debug\ZuneScreenManager.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\ZuneScreenManager\ZuneScreenManager\obj\Zune\Debug\ZuneScreenManager.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\ZuneScreenManager\ZuneScreenManager\obj\Zune\Debug\ZuneScreenManager.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\ZuneScreenManager\bin\Zune\Debug\ZuneScreenManager.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\ZuneScreenManager\bin\Zune\Debug\ZuneScreenManager.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\ZuneScreenManager\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\ZuneScreenManager\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\ZuneScreenManager\obj\Zune\Debug\ZuneScreenManager.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\ZuneScreenManager\obj\Zune\Debug\ZuneScreenManager.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\ZuneScreenManager\bin\Zune\Debug\ZuneScreenManager.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\ZuneScreenManager\bin\Zune\Debug\ZuneScreenManager.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\ZuneScreenManager\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\ZuneScreenManager\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\ZuneScreenManager\obj\Zune\Debug\ZuneScreenManager.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\ZuneScreenManager\obj\Zune\Debug\ZuneScreenManager.pdb

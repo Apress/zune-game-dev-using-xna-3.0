@@ -1,0 +1,19 @@
+2df4e2a2f8a7455faea83a8b35a3977f
+0
+Bob Dole
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 7\MusicVisualizer\bin\Zune\Debug\
+128725779420000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 7\MusicVisualizer\GameThumbnail.png
+2008-11-30T09:24:39.1637773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 7\MusicVisualizer\bin\Zune\Debug\InputState.dll
+2008-11-29T08:37:06.3487773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 7\MusicVisualizer\bin\Zune\Debug\MusicVisualizer.exe
+2008-12-01T08:35:05.5410000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 7\MusicVisualizer\bin\Zune\Debug\Content\linegreen.xnb
+2008-12-01T04:29:29.5090000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 7\MusicVisualizer\bin\Zune\Debug\Content\notrackbg.xnb
+2008-12-01T04:03:43.9860000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 7\MusicVisualizer\bin\Zune\Debug\Content\pixel.xnb
+2008-12-01T07:05:14.3530000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 7\MusicVisualizer\bin\Zune\Debug\Content\waveformbox.xnb
+2008-12-01T07:05:14.6800000Z

@@ -1,0 +1,13 @@
+2ff4dc41e3fb424da8f4909509058edb
+0
+Bob Dole
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\SimpleMusicPlayer\bin\Zune\Debug\
+128692789580000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\SimpleMusicPlayer\GameThumbnail.png
+2008-10-23T22:22:54.6490000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\SimpleMusicPlayer\bin\Zune\Debug\SimpleMusicPlayer.exe
+2008-10-24T04:38:28.9750000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\SimpleMusicPlayer\bin\Zune\Debug\Content\Kootenay.xnb
+2008-10-23T23:31:01.9770000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\SimpleMusicPlayer\bin\Zune\Debug\Content\KootenayBold.xnb
+2008-10-23T23:31:02.0530000Z

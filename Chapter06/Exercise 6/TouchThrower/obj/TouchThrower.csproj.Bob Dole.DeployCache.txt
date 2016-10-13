@@ -1,0 +1,11 @@
+28ae982122db46978c00fd051eed5a96
+0
+Bob Dole
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 6\TouchThrower\bin\Zune\Debug\
+128725063080000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 6\TouchThrower\GameThumbnail.png
+2008-11-30T07:50:07.9307773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 6\TouchThrower\bin\Zune\Debug\TouchThrower.exe
+2008-11-30T08:47:07.3967773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 6\TouchThrower\bin\Zune\Debug\Content\ball.xnb
+2008-11-30T08:09:26.0667773Z

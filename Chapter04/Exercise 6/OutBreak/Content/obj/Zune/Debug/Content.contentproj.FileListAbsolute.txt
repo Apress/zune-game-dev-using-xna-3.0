@@ -1,0 +1,3 @@
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 5\Exercise 6\OutBreak\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 6\OutBreak\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 4\Exercise 6\OutBreak\Content\obj\Zune\Debug\ResolveAssemblyReference.cache

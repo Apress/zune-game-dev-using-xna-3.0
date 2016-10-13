@@ -1,0 +1,9 @@
+Content\Textures\arrow.xnb
+Content\Textures\smallmonkey.xnb
+Content\Textures\beachbg.xnb
+Content\Textures\banana.xnb
+Content\Textures\monkeysheet.xnb
+Content\Textures\water.xnb
+Content\Textures\startscreen.xnb
+Content\Textures\gameover.xnb
+Content\Fonts\Small.xnb

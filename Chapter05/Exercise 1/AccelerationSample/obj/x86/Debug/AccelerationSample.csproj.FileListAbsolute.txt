@@ -1,0 +1,7 @@
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 1\AccelerationSample\bin\x86\Debug\Content\greenball.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 1\AccelerationSample\bin\x86\Debug\AccelerationSample.exe
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 1\AccelerationSample\bin\x86\Debug\AccelerationSample.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 1\AccelerationSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 1\AccelerationSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 1\AccelerationSample\obj\x86\Debug\AccelerationSample.exe
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 1\AccelerationSample\obj\x86\Debug\AccelerationSample.pdb

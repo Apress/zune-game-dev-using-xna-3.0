@@ -1,0 +1,25 @@
+c7d2e1605ba1406eae7411df2742d6e7
+0
+Bob Dole
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 2\SpriteBlendModes\bin\Zune\Debug\
+128722420360000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 2\SpriteBlendModes\GameThumbnail.png
+2008-11-27T06:29:54.1047773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 2\SpriteBlendModes\bin\Zune\Debug\InputState.dll
+2008-11-14T05:48:14.5479818Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 2\SpriteBlendModes\bin\Zune\Debug\SpriteBlendModes.exe
+2008-11-27T07:51:56.1347773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 2\SpriteBlendModes\bin\Zune\Debug\Content\blueball.xnb
+2008-11-27T06:48:19.8487773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 2\SpriteBlendModes\bin\Zune\Debug\Content\blueball_solid.xnb
+2008-11-27T07:40:31.1917773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 2\SpriteBlendModes\bin\Zune\Debug\Content\greenball.xnb
+2008-11-27T06:48:20.1477773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 2\SpriteBlendModes\bin\Zune\Debug\Content\greenball_solid.xnb
+2008-11-27T07:40:31.5007773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 2\SpriteBlendModes\bin\Zune\Debug\Content\Normal.xnb
+2008-11-27T07:21:07.3077773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 2\SpriteBlendModes\bin\Zune\Debug\Content\redball.xnb
+2008-11-27T06:48:20.4457773Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 2\SpriteBlendModes\bin\Zune\Debug\Content\redball_solid.xnb
+2008-11-27T07:40:31.7917773Z

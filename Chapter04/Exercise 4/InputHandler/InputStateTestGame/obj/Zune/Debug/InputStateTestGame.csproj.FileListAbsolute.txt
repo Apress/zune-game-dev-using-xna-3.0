@@ -1,0 +1,7 @@
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputHandler\InputStateTestGame\bin\Zune\Debug\InputStateTestGame.exe
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputHandler\InputStateTestGame\bin\Zune\Debug\InputStateTestGame.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputHandler\InputStateTestGame\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputHandler\InputStateTestGame\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputHandler\InputStateTestGame\obj\Zune\Debug\InputStateTestGame.exe
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputHandler\InputStateTestGame\obj\Zune\Debug\InputStateTestGame.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputHandler\InputStateTestGame\bin\Zune\Debug\Content\Arial.xnb

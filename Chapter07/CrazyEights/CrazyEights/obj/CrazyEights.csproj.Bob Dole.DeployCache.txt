@@ -1,0 +1,57 @@
+114f5bbcce904297ac71c0478a52bc4b
+0
+Bob Dole
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\
+128739693160000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\gameThumbnail.png
+2008-12-22T09:20:19.1920000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\CardLib.dll
+2009-01-12T07:03:36.1160000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\CrazyEights.exe
+2009-01-12T08:32:41.8110000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\GameStateManager.dll
+2009-01-12T08:32:41.2470000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\GinRummy.exe
+2008-12-09T08:13:22.3190000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\gameThumbnail.xnb
+2009-01-08T07:47:24.1750000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\deck.xnb
+2009-01-08T07:47:19.8530000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\listhighlight.xnb
+2009-01-08T07:47:20.8370000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\gameOverScreen.xnb
+2009-01-08T07:47:20.2160000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\joinGameScreen.xnb
+2009-01-08T07:47:20.5380000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\lobbyScreen.xnb
+2009-01-08T07:47:21.1850000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\menuBackground.xnb
+2009-01-08T07:47:23.5160000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\newGameScreen.xnb
+2009-01-08T07:47:21.5170000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\playingBackground.xnb
+2009-01-08T07:47:21.8330000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\suitSelectBackground.xnb
+2009-01-08T07:47:23.8510000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\CardBackgrounds\clubBackground.xnb
+2009-01-08T07:47:22.1960000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\CardBackgrounds\diamondBackground.xnb
+2009-01-08T07:47:22.5360000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\CardBackgrounds\heartBackground.xnb
+2009-01-08T07:47:22.8600000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\CardBackgrounds\spadeBackground.xnb
+2009-01-08T07:47:23.1870000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Sounds\CardSelect.xnb
+2009-01-08T07:47:24.2080000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Sounds\Lose.xnb
+2009-01-08T07:47:24.2960000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Sounds\Win.xnb
+2009-01-08T07:47:24.3610000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\MenuSounds\SelectChanged.xnb
+2009-01-08T07:47:16.6320000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\MenuSounds\Selected.xnb
+2009-01-08T07:47:16.6450000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Fonts\KootenayLarge.xnb
+2009-01-08T07:47:16.4980000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Fonts\KootenaySmall.xnb
+2009-01-08T07:47:16.5430000Z

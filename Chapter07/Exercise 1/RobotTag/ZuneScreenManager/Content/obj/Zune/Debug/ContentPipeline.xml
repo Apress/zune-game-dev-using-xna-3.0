@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Zune</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\ZuneScreenManager\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\ZuneScreenManager\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\ZuneScreenManager\Content\obj\Zune\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\ZuneScreenManager\bin\Zune\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-01T01:51:01.2135182-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

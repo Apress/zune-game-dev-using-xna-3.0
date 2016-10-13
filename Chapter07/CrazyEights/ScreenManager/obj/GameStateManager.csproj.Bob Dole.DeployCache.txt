@@ -1,0 +1,31 @@
+114f5bbcce904297ac71c0478a52bc4b
+0
+Bob Dole
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\
+128738790420000000
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\GameThumbnail.png
+2008-12-07T08:57:40.1920000Z
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\CardLib.dll
+2008-12-16T07:16:34.8440000Z
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\CrazyEights.exe
+2008-12-16T08:17:57.2650000Z
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\GameStateManager.dll
+2008-12-16T08:12:07.5670000Z
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\GinRummy.exe
+2008-12-09T08:13:22.3190000Z
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\blank.xnb
+2008-12-16T03:18:49.0090000Z
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\deck.xnb
+2008-12-16T03:18:47.5440000Z
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\joinGameScreen.xnb
+2008-12-16T03:18:47.7050000Z
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Kootenay.xnb
+2008-12-16T03:18:49.0800000Z
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\listhighlight.xnb
+2008-12-16T03:18:47.8360000Z
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\lobbyScreen.xnb
+2008-12-16T03:18:47.7880000Z
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\newGameScreen.xnb
+2008-12-16T03:18:47.6410000Z
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Small.xnb
+2008-12-16T03:18:48.1130000Z

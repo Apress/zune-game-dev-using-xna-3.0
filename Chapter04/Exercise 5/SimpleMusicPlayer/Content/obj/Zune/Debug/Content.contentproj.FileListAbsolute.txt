@@ -1,0 +1,1 @@
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\SimpleMusicPlayer\Content\obj\Zune\Debug\ResolveAssemblyReference.cache

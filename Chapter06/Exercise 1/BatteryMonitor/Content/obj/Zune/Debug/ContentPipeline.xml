@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\batterymonbg.png</Source>
+      <Name>Textures\batterymonbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\batterymonbg.xnb</Output>
+      <Time>2008-11-18T02:47:53.399-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Battery\battery_critical.png</Source>
+      <Name>Textures\Battery\battery_critical</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\Battery\battery_critical.xnb</Output>
+      <Time>2008-11-18T02:48:00.307-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Battery\battery_low.png</Source>
+      <Name>Textures\Battery\battery_low</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\Battery\battery_low.xnb</Output>
+      <Time>2008-11-18T02:48:00.312-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Battery\battery_nobattery.png</Source>
+      <Name>Textures\Battery\battery_nobattery</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\Battery\battery_nobattery.xnb</Output>
+      <Time>2008-11-18T02:48:00.313-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Battery\battery_unknown.png</Source>
+      <Name>Textures\Battery\battery_unknown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\Battery\battery_unknown.xnb</Output>
+      <Time>2008-11-18T02:48:00.314-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Battery\battery_charging.png</Source>
+      <Name>Textures\Battery\battery_charging</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\Battery\battery_charging.xnb</Output>
+      <Time>2008-11-18T02:58:49.16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Battery\battery_high.png</Source>
+      <Name>Textures\Battery\battery_high</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\Battery\battery_high.xnb</Output>
+      <Time>2008-11-18T03:00:38.888-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Normal.spritefont</Source>
+      <Name>Normal</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Normal.xnb</Output>
+      <Time>2008-11-18T02:48:09.358-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Zune</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\Content\obj\Zune\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-01T01:51:01.2135182-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

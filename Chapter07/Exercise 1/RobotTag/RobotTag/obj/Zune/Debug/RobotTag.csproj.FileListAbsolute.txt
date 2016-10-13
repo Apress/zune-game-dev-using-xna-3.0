@@ -1,0 +1,41 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\Content\Textures\robot.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\Content\Textures\blank.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\Content\Tahoma.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\RobotTag.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\RobotTag.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\ZuneScreenManager.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\ZuneScreenManager.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\obj\Zune\Debug\RobotTag.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\obj\Zune\Debug\RobotTag.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\obj\Zune\Debug\RobotTag.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\Content\Textures\robot.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\Content\Textures\blank.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\Content\Tahoma.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\RobotTag.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\RobotTag.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\ZuneScreenManager.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\ZuneScreenManager.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\obj\Zune\Debug\RobotTag.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\mscorlib.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\System.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\mscorlib.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\System.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\RobotTag\bin\Zune\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Content\Textures\robot.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Content\Textures\blank.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Content\Tahoma.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\RobotTag.exe
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\RobotTag.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\ZuneScreenManager.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\ZuneScreenManager.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\obj\Zune\Debug\RobotTag.exe
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\obj\Zune\Debug\RobotTag.pdb

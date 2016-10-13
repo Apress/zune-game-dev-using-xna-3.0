@@ -1,0 +1,2 @@
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

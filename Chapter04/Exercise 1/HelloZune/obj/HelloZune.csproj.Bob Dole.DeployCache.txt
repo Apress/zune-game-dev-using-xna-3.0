@@ -1,0 +1,11 @@
+e53adccd7d344bb9821ba2af2ea98600
+0
+Bob Dole
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 4\Exercise 1\HelloZune\bin\Zune\Debug\
+128726772660000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 4\Exercise 1\HelloZune\GameThumbnail.png
+2008-10-15T06:19:28.3990000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 4\Exercise 1\HelloZune\bin\Zune\Debug\HelloZune.exe
+2008-12-02T07:38:05.6800000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 4\Exercise 1\HelloZune\bin\Zune\Debug\Content\Tahoma.xnb
+2008-12-02T07:38:05.2370000Z

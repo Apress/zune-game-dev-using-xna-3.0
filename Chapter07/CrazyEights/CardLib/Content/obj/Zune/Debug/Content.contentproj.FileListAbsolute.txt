@@ -1,0 +1,3 @@
+C:\Users\Dan\Documents\CardLib\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\Content\obj\Zune\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\ZuneScreenManager\ZuneScreenManager\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\RobotTag\ZuneScreenManager\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\ZuneScreenManager\Content\obj\Zune\Debug\ResolveAssemblyReference.cache

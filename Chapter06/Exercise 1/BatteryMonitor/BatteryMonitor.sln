@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryMonitor", "BatteryMonitor.csproj", "{26AB9A7A-534D-4EB8-9A80-D8303FB755E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26AB9A7A-534D-4EB8-9A80-D8303FB755E3}.Debug|Zune.ActiveCfg = Debug|Zune
+		{26AB9A7A-534D-4EB8-9A80-D8303FB755E3}.Debug|Zune.Build.0 = Debug|Zune
+		{26AB9A7A-534D-4EB8-9A80-D8303FB755E3}.Debug|Zune.Deploy.0 = Debug|Zune
+		{26AB9A7A-534D-4EB8-9A80-D8303FB755E3}.Release|Zune.ActiveCfg = Release|Zune
+		{26AB9A7A-534D-4EB8-9A80-D8303FB755E3}.Release|Zune.Build.0 = Release|Zune
+		{26AB9A7A-534D-4EB8-9A80-D8303FB755E3}.Release|Zune.Deploy.0 = Release|Zune
+		{A5FFE06E-1DEE-4572-A015-4FCA58A4B16C}.Debug|Zune.ActiveCfg = Debug|Zune
+		{A5FFE06E-1DEE-4572-A015-4FCA58A4B16C}.Release|Zune.ActiveCfg = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

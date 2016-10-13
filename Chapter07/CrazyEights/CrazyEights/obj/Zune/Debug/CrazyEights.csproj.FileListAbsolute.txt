@@ -1,0 +1,62 @@
+C:\Users\Dan\Documents\GinRummy\bin\Zune\Debug\GinRummy.exe
+C:\Users\Dan\Documents\GinRummy\bin\Zune\Debug\GinRummy.pdb
+C:\Users\Dan\Documents\GinRummy\bin\Zune\Debug\CardLib.dll
+C:\Users\Dan\Documents\GinRummy\bin\Zune\Debug\CardLib.pdb
+C:\Users\Dan\Documents\GinRummy\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\GinRummy\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\GinRummy\obj\Zune\Debug\GinRummy.exe
+C:\Users\Dan\Documents\GinRummy\obj\Zune\Debug\GinRummy.pdb
+C:\Users\Dan\Documents\GinRummy\bin\Zune\Debug\Content\deck.xnb
+C:\Users\Dan\Documents\GinRummy\bin\Zune\Debug\Content\blank.xnb
+C:\Users\Dan\Documents\GinRummy\bin\Zune\Debug\Content\Kootenay.xnb
+C:\Users\Dan\Documents\GinRummy\bin\Zune\Debug\ScreenManager.dll
+C:\Users\Dan\Documents\GinRummy\bin\Zune\Debug\ScreenManager.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\CrazyEights.exe
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\CrazyEights.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\CardLib.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\CardLib.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\obj\Zune\Debug\CrazyEights.exe
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\obj\Zune\Debug\CrazyEights.pdb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\blank.xnb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Kootenay.xnb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\deck.xnb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\CrazyEights.exe
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\CrazyEights.pdb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\CardLib.dll
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\CardLib.pdb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\obj\Zune\Debug\CrazyEights.exe
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\obj\Zune\Debug\CrazyEights.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\GameStateManager.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\GameStateManager.pdb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\newGameScreen.xnb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\joinGameScreen.xnb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\lobbyScreen.xnb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\listhighlight.xnb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Small.xnb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\GameStateManager.dll
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\GameStateManager.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\deck.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\gameOverScreen.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\joinGameScreen.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\listhighlight.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\lobbyScreen.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\menuBackground.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\newGameScreen.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\playingBackground.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\CardBackgrounds\clubBackground.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\CardBackgrounds\diamondBackground.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\CardBackgrounds\heartBackground.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\CardBackgrounds\spadeBackground.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\suitSelectBackground.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\gameThumbnail.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\MenuSounds\SelectChanged.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\MenuSounds\Selected.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Sounds\CardSelect.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Sounds\Lose.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Sounds\Win.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Fonts\KootenayLarge.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Fonts\KootenaySmall.xnb

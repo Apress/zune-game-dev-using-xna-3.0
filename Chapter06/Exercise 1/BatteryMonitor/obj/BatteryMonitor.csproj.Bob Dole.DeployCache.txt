@@ -1,0 +1,25 @@
+67dbad42ccc0445486731590cef36be0
+0
+Bob Dole
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\
+128714705320000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\GameThumbnail.png
+2008-11-18T07:34:51.2710000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\BatteryMonitor.exe
+2008-11-21T03:17:51.5283859Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Normal.xnb
+2008-11-18T08:06:10.9100000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\batterymonbg.xnb
+2008-11-18T08:06:06.9530000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\Battery\battery_charging.xnb
+2008-11-18T08:06:08.5200000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\Battery\battery_critical.xnb
+2008-11-18T08:06:07.3030000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\Battery\battery_high.xnb
+2008-11-18T08:06:08.8160000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\Battery\battery_low.xnb
+2008-11-18T08:06:07.6240000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\Battery\battery_nobattery.xnb
+2008-11-18T08:06:07.9260000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Example 1\BatteryMonitor\bin\Zune\Debug\Content\Textures\Battery\battery_unknown.xnb
+2008-11-18T08:06:08.2230000Z

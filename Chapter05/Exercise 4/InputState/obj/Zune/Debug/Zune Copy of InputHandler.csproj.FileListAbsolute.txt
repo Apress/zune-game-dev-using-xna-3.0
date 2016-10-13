@@ -1,0 +1,6 @@
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputState\bin\Zune\Debug\InputState.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputState\bin\Zune\Debug\InputState.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputState\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputState\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputState\obj\Zune\Debug\InputState.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputState\obj\Zune\Debug\InputState.pdb

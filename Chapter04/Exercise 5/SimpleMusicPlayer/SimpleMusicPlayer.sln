@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMusicPlayer", "SimpleMusicPlayer.csproj", "{11F3ECF0-5733-4640-93EA-EFCF5E5DA9A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F3ECF0-5733-4640-93EA-EFCF5E5DA9A8}.Debug|Zune.ActiveCfg = Debug|Zune
+		{11F3ECF0-5733-4640-93EA-EFCF5E5DA9A8}.Debug|Zune.Build.0 = Debug|Zune
+		{11F3ECF0-5733-4640-93EA-EFCF5E5DA9A8}.Debug|Zune.Deploy.0 = Debug|Zune
+		{11F3ECF0-5733-4640-93EA-EFCF5E5DA9A8}.Release|Zune.ActiveCfg = Release|Zune
+		{11F3ECF0-5733-4640-93EA-EFCF5E5DA9A8}.Release|Zune.Build.0 = Release|Zune
+		{11F3ECF0-5733-4640-93EA-EFCF5E5DA9A8}.Release|Zune.Deploy.0 = Release|Zune
+		{781AD181-46C9-4C40-B536-E244E9A9698B}.Debug|Zune.ActiveCfg = Debug|Zune
+		{781AD181-46C9-4C40-B536-E244E9A9698B}.Release|Zune.ActiveCfg = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

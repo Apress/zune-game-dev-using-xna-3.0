@@ -1,0 +1,11 @@
+65a33b12f64c4ad6808704226f6aa4dc
+0
+Bob Dole
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputHandler\InputStateTestGame\bin\Zune\Debug\
+128690470660000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputHandler\InputStateTestGame\GameThumbnail.png
+2008-10-21T06:37:59.7450000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputHandler\InputStateTestGame\bin\Zune\Debug\InputStateTestGame.exe
+2008-10-21T07:36:09.9700000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 4\InputHandler\InputStateTestGame\bin\Zune\Debug\Content\Arial.xnb
+2008-10-21T07:08:44.6350000Z

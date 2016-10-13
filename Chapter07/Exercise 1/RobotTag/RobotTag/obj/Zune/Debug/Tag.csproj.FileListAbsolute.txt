@@ -1,0 +1,11 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\Content\Textures\robot.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\Tag.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\Tag.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\ZuneScreenManager.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\ZuneScreenManager.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\obj\Zune\Debug\Tag.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\obj\Zune\Debug\Tag.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\Content\Tahoma.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\Content\Textures\blank.xnb

@@ -1,0 +1,6 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\SimpleAnimationExtension\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\SimpleAnimationExtension\bin\x86\Debug\SimpleAnimationExtension.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\SimpleAnimationExtension\bin\x86\Debug\SimpleAnimationExtension.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\SimpleAnimationExtension\obj\x86\Debug\SimpleAnimationExtension.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\SimpleAnimationExtension\obj\x86\Debug\SimpleAnimationExtension.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\SimpleAnimationExtension\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll

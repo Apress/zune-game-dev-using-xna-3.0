@@ -1,0 +1,8 @@
+Content\Textures\batterymonbg.xnb
+Content\Textures\Battery\battery_critical.xnb
+Content\Textures\Battery\battery_low.xnb
+Content\Textures\Battery\battery_nobattery.xnb
+Content\Textures\Battery\battery_unknown.xnb
+Content\Textures\Battery\battery_charging.xnb
+Content\Textures\Battery\battery_high.xnb
+Content\Normal.xnb

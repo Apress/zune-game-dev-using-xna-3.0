@@ -1,0 +1,2 @@
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 5\MonkeyFeeder\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\Content\obj\x86\Debug\ResolveAssemblyReference.cache

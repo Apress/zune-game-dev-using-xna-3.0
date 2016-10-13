@@ -1,0 +1,13 @@
+f5cbe486fb2748de905765e71eb1eea7
+0
+Bob Dole
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\ZunePadExample\bin\Zune\Debug\
+128687865320000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\ZunePadExample\GameThumbnail.png
+2008-10-18T06:05:50.9940000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\ZunePadExample\bin\Zune\Debug\ZunePadExample.exe
+2008-10-18T07:14:54.1410000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\ZunePadExample\bin\Zune\Debug\Content\Arial.xnb
+2008-10-18T06:42:01.9030000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\ZunePadExample\bin\Zune\Debug\Content\character.xnb
+2008-10-18T06:42:01.8220000Z

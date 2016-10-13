@@ -1,0 +1,9 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\TestingAnimation\bin\x86\Debug\Content\Animations\jump.xnb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\TestingAnimation\bin\x86\Debug\TestingAnimation.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\TestingAnimation\bin\x86\Debug\TestingAnimation.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\TestingAnimation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\TestingAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\TestingAnimation\obj\x86\Debug\TestingAnimation.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\TestingAnimation\obj\x86\Debug\TestingAnimation.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\TestingAnimation\bin\x86\Debug\SimpleAnimationExtension.dll
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\SimpleAnimationExtension\TestingAnimation\bin\x86\Debug\SimpleAnimationExtension.pdb

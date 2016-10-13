@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\arrow.png</Source>
+      <Name>Textures\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\bin\x86\Debug\Content\Textures\arrow.xnb</Output>
+      <Time>2008-11-13T03:12:36.7579818-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\smallmonkey.png</Source>
+      <Name>Textures\smallmonkey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\bin\x86\Debug\Content\Textures\smallmonkey.xnb</Output>
+      <Time>2008-11-13T03:12:36.7659818-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\beachbg.png</Source>
+      <Name>Textures\beachbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\bin\x86\Debug\Content\Textures\beachbg.xnb</Output>
+      <Time>2008-11-13T07:59:11.6419818-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\banana.png</Source>
+      <Name>Textures\banana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\bin\x86\Debug\Content\Textures\banana.xnb</Output>
+      <Time>2008-11-13T04:10:28.5309818-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\monkeysheet.png</Source>
+      <Name>Textures\monkeysheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="FrameCount">5</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\bin\x86\Debug\Content\Textures\monkeysheet.xnb</Output>
+      <Time>2008-11-13T07:38:13.2269818-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\water.png</Source>
+      <Name>Textures\water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\bin\x86\Debug\Content\Textures\water.xnb</Output>
+      <Time>2008-11-13T07:59:04.4429818-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\startscreen.png</Source>
+      <Name>Textures\startscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\bin\x86\Debug\Content\Textures\startscreen.xnb</Output>
+      <Time>2008-11-13T08:20:06.5339818-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gameover.png</Source>
+      <Name>Textures\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\bin\x86\Debug\Content\Textures\gameover.xnb</Output>
+      <Time>2008-11-13T08:38:23.6029818-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Small.spritefont</Source>
+      <Name>Fonts\Small</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\bin\x86\Debug\Content\Fonts\Small.xnb</Output>
+      <Time>2008-11-13T04:38:09.8459818-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 6\Exercise 5\MonkeyFeederStorage\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-01T01:51:01.2135182-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

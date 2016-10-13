@@ -1,0 +1,35 @@
+55fb019287f24369a22b635ccdd6d48a
+0
+Dawate
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\
+128744927320000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\GameThumbnail.png
+2008-06-13T03:20:00.5898432Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Microsoft.Xna.Framework.dll
+2008-10-10T21:25:12.0000000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Microsoft.Xna.Framework.Game.dll
+2008-10-10T21:25:14.0000000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Microsoft.Xna.Framework.Game.xml
+2008-10-10T22:18:18.0000000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Microsoft.Xna.Framework.xml
+2008-10-10T22:13:42.0000000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\mscorlib.dll
+2008-10-10T21:08:32.0000000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\mscorlib.xml
+2008-10-10T21:08:30.0000000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\RobotTag.exe
+2008-12-24T06:15:47.6300000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\System.dll
+2008-10-10T21:08:32.0000000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\System.xml
+2008-10-10T21:08:32.0000000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Tag.exe
+2008-06-13T03:06:40.2655977Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\ZuneScreenManager.dll
+2008-12-23T08:00:00.9850000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Content\Tahoma.xnb
+2008-12-23T08:00:02.2510000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Content\Textures\blank.xnb
+2008-12-23T08:00:02.2200000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\Exercise 1\RobotTag\RobotTag\bin\Zune\Debug\Content\Textures\robot.xnb
+2008-12-23T08:00:01.9100000Z

@@ -1,0 +1,15 @@
+c0ea4a58c6564e20b392cb1b03cfbd87
+0
+Bob Dole
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\bin\Zune\Debug\
+128708615800000000
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\GameThumbnail.png
+2008-11-11T05:58:22.7670000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\bin\Zune\Debug\PerPixelCollisionSample.exe
+2008-11-11T07:54:40.4640000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\bin\Zune\Debug\Content\greenball.xnb
+2008-11-11T07:16:53.9000000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\bin\Zune\Debug\Content\Normal.xnb
+2008-11-11T07:16:54.2270000Z
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 5\Exercise 3\PerPixelCollisionSample\bin\Zune\Debug\Content\otherball.xnb
+2008-11-11T07:16:54.1860000Z

@@ -1,0 +1,24 @@
+C:\Users\Dan\Documents\ScreenManager\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\ScreenManager\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\ScreenManager\bin\Zune\Debug\ScreenManager.dll
+C:\Users\Dan\Documents\ScreenManager\bin\Zune\Debug\ScreenManager.pdb
+C:\Users\Dan\Documents\ScreenManager\obj\Zune\Debug\ScreenManager.dll
+C:\Users\Dan\Documents\ScreenManager\obj\Zune\Debug\ScreenManager.pdb
+C:\Users\Dan\Documents\ScreenManager\bin\Zune\Debug\Content\blank.xnb
+C:\Users\Dan\Documents\ScreenManager\bin\Zune\Debug\Content\Kootenay.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\Content\blank.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\Content\Kootenay.xnb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\ScreenManager.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\ScreenManager.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\obj\Zune\Debug\ScreenManager.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\obj\Zune\Debug\ScreenManager.pdb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\Content\blank.xnb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\Content\Kootenay.xnb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\ScreenManager.dll
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\bin\Zune\Debug\ScreenManager.pdb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\obj\Zune\Debug\ScreenManager.dll
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\ScreenManager\obj\Zune\Debug\ScreenManager.pdb

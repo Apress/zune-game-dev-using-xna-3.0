@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\deck.png</Source>
+      <Name>Textures\deck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\deck.xnb</Output>
+      <Time>2008-12-08T02:54:52.026-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Screens\gameOverScreen.png</Source>
+      <Name>Textures\Screens\gameOverScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\gameOverScreen.xnb</Output>
+      <Time>2008-12-20T03:28:33.9429384-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Screens\joinGameScreen.png</Source>
+      <Name>Textures\Screens\joinGameScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\joinGameScreen.xnb</Output>
+      <Time>2008-12-14T05:18:38.0606235-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\listhighlight.png</Source>
+      <Name>Textures\listhighlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\listhighlight.xnb</Output>
+      <Time>2008-12-14T06:02:39.7236235-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Screens\lobbyScreen.png</Source>
+      <Name>Textures\Screens\lobbyScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\lobbyScreen.xnb</Output>
+      <Time>2008-12-14T05:44:52.6836235-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Screens\newGameScreen.png</Source>
+      <Name>Textures\Screens\newGameScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\newGameScreen.xnb</Output>
+      <Time>2008-12-14T05:13:45.2156235-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Screens\playingBackground.png</Source>
+      <Name>Textures\Screens\playingBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\playingBackground.xnb</Output>
+      <Time>2008-12-20T01:06:16.0479384-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CardBackgrounds\clubBackground.png</Source>
+      <Name>Textures\CardBackgrounds\clubBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\CardBackgrounds\clubBackground.xnb</Output>
+      <Time>2008-12-22T03:43:38.683-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CardBackgrounds\diamondBackground.png</Source>
+      <Name>Textures\CardBackgrounds\diamondBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\CardBackgrounds\diamondBackground.xnb</Output>
+      <Time>2008-12-22T03:43:38.684-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CardBackgrounds\heartBackground.png</Source>
+      <Name>Textures\CardBackgrounds\heartBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\CardBackgrounds\heartBackground.xnb</Output>
+      <Time>2008-12-22T03:43:38.685-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CardBackgrounds\spadeBackground.png</Source>
+      <Name>Textures\CardBackgrounds\spadeBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\CardBackgrounds\spadeBackground.xnb</Output>
+      <Time>2008-12-22T03:43:38.687-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Screens\menuBackground.png</Source>
+      <Name>Textures\Screens\menuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\menuBackground.xnb</Output>
+      <Time>2008-12-22T04:02:33.628-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Screens\suitSelectBackground.png</Source>
+      <Name>Textures\Screens\suitSelectBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Textures\Screens\suitSelectBackground.xnb</Output>
+      <Time>2008-12-22T04:17:13.399-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gameThumbnail.png</Source>
+      <Name>gameThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\gameThumbnail.xnb</Output>
+      <Time>2008-12-22T04:23:20.977-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\CardSelect.wav</Source>
+      <Name>Sounds\CardSelect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Sounds\CardSelect.xnb</Output>
+      <Time>2008-12-22T16:53:52.754-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Lose.wav</Source>
+      <Name>Sounds\Lose</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Sounds\Lose.xnb</Output>
+      <Time>2008-12-22T16:53:52.758-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Win.wav</Source>
+      <Name>Sounds\Win</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\Sounds\Win.xnb</Output>
+      <Time>2008-12-22T16:53:52.762-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Zune</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\Content\obj\Zune\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CrazyEights\bin\Zune\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-12-30T02:25:48.7331745-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

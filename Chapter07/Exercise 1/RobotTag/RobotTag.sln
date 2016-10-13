@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotTag", "RobotTag\RobotTag.csproj", "{59E6C920-1CFB-4484-8D9C-F66D05B5FEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZuneScreenManager", "ZuneScreenManager\ZuneScreenManager.csproj", "{2297A55A-8710-404D-8DC2-B5475DC08673}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E6C920-1CFB-4484-8D9C-F66D05B5FEC1}.Debug|Zune.ActiveCfg = Debug|Zune
+		{59E6C920-1CFB-4484-8D9C-F66D05B5FEC1}.Debug|Zune.Build.0 = Debug|Zune
+		{59E6C920-1CFB-4484-8D9C-F66D05B5FEC1}.Debug|Zune.Deploy.0 = Debug|Zune
+		{59E6C920-1CFB-4484-8D9C-F66D05B5FEC1}.Release|Zune.ActiveCfg = Release|Zune
+		{59E6C920-1CFB-4484-8D9C-F66D05B5FEC1}.Release|Zune.Build.0 = Release|Zune
+		{59E6C920-1CFB-4484-8D9C-F66D05B5FEC1}.Release|Zune.Deploy.0 = Release|Zune
+		{2297A55A-8710-404D-8DC2-B5475DC08673}.Debug|Zune.ActiveCfg = Debug|Zune
+		{2297A55A-8710-404D-8DC2-B5475DC08673}.Debug|Zune.Build.0 = Debug|Zune
+		{2297A55A-8710-404D-8DC2-B5475DC08673}.Release|Zune.ActiveCfg = Release|Zune
+		{2297A55A-8710-404D-8DC2-B5475DC08673}.Release|Zune.Build.0 = Release|Zune
+		{D5FFA715-761C-492D-9F8D-9C9377358D0E}.Debug|Zune.ActiveCfg = Debug|Zune
+		{D5FFA715-761C-492D-9F8D-9C9377358D0E}.Release|Zune.ActiveCfg = Release|Zune
+		{D8FCCEFA-A15C-44FE-82E2-C5F09A4060EE}.Debug|Zune.ActiveCfg = Debug|Zune
+		{D8FCCEFA-A15C-44FE-82E2-C5F09A4060EE}.Release|Zune.ActiveCfg = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

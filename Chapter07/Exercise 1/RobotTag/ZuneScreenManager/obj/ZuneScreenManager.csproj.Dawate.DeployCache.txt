@@ -1,0 +1,19 @@
+55fb019287f24369a22b635ccdd6d48a
+2
+Dawate
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\
+128576345060000000
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\GameThumbnail.png
+2008-06-13T03:20:00.5898432Z
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\RobotTag.exe
+2008-06-13T05:50:08.7365977Z
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\Tag.exe
+2008-06-13T03:06:40.2655977Z
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\ZuneScreenManager.dll
+2008-06-13T05:36:35.5975977Z
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\Content\Tahoma.xnb
+2008-06-13T03:20:10.7265977Z
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\Content\Textures\blank.xnb
+2008-06-13T03:20:10.6875977Z
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Tag\Tag\bin\Zune\Debug\Content\Textures\robot.xnb
+2008-06-13T03:20:10.6275977Z

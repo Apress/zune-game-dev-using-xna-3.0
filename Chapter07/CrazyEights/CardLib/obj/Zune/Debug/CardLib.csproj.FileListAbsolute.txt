@@ -1,0 +1,18 @@
+C:\Users\Dan\Documents\CardLib\bin\Zune\Debug\CardLib.dll
+C:\Users\Dan\Documents\CardLib\bin\Zune\Debug\CardLib.pdb
+C:\Users\Dan\Documents\CardLib\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\CardLib\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\CardLib\obj\Zune\Debug\CardLib.dll
+C:\Users\Dan\Documents\CardLib\obj\Zune\Debug\CardLib.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\bin\Zune\Debug\CardLib.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\bin\Zune\Debug\CardLib.pdb
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\obj\Zune\Debug\CardLib.dll
+C:\Users\Dan\Documents\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\obj\Zune\Debug\CardLib.pdb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\bin\Zune\Debug\CardLib.dll
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\bin\Zune\Debug\CardLib.pdb
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\obj\Zune\Debug\CardLib.dll
+C:\Users\Dan\Desktop\Zune Book\Examples\Chapter 7\CrazyEights\CardLib\obj\Zune\Debug\CardLib.pdb

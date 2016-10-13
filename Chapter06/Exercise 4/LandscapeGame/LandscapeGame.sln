@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandscapeGame", "LandscapeGame.csproj", "{969BBB4D-31E5-4CC9-8013-E04660CCAE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{969BBB4D-31E5-4CC9-8013-E04660CCAE40}.Debug|Zune.ActiveCfg = Debug|Zune
+		{969BBB4D-31E5-4CC9-8013-E04660CCAE40}.Debug|Zune.Build.0 = Debug|Zune
+		{969BBB4D-31E5-4CC9-8013-E04660CCAE40}.Debug|Zune.Deploy.0 = Debug|Zune
+		{969BBB4D-31E5-4CC9-8013-E04660CCAE40}.Release|Zune.ActiveCfg = Release|Zune
+		{969BBB4D-31E5-4CC9-8013-E04660CCAE40}.Release|Zune.Build.0 = Release|Zune
+		{969BBB4D-31E5-4CC9-8013-E04660CCAE40}.Release|Zune.Deploy.0 = Release|Zune
+		{1857E745-2CED-4183-A247-3BBB937762B3}.Debug|Zune.ActiveCfg = Debug|Zune
+		{1857E745-2CED-4183-A247-3BBB937762B3}.Release|Zune.ActiveCfg = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
